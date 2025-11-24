@@ -23,12 +23,12 @@ Praktikum ini mengembangkan project CRUD dari praktikum 8 menjadi lebih **rapi, 
 - LAMPP/XAMPP (Apache)
 - Routing Manual
 - Session Management
-- Template engine sederhana (header/footer)
+- Template engine sederhana
 
 ---
 
 ## Sistem Login
-Menggunakan tabel `users` dengan password hashing MD5 (sesuai materi).
+Menggunakan tabel `users` dengan password hashing MD5 
 
 ### Default Login:
   user : admin
